@@ -1,6 +1,6 @@
 # Kotlin Flows Showcase App 🚀
 
-A polished, educational Android project built to explore and master **Kotlin Flows** using **Jetpack Compose** and the **MVVM architecture**. This application provides a hands-on, page-by-page visual comparison between **Cold Flows** and **Hot Flows** (`StateFlow` and `SharedFlow`).
+A polished, educational Android project built to explore and master **Kotlin Flows** using **Jetpack Compose**. This application provides a hands-on, page-by-page visual comparison between **Cold Flows** and **Hot Flows** (`StateFlow` and `SharedFlow`).
 
 ---
 
